@@ -271,14 +271,14 @@ span {
 
 .card-img img {
   width: 100%;
-  border-radius: 10px 10px 0 0;
+  border-radius: 20px 20px 0 0;
 }
 
 .card-img-tag {
   position:absolute;
   top: 0;
   background: rgb(177, 42, 125);
-  border-top-left-radius: 10px;
+  border-top-left-radius: 20px;
   padding: 10px 15px;
   color: white;
 }
@@ -286,6 +286,7 @@ span {
 .card-content {
   background: white;
   padding: 25px;
+  border-radius: 0 0 20px 20px;
 }
 
 .card-ttl {
